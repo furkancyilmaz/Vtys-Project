@@ -1,3 +1,23 @@
+Click on the Clone or download button.
+
+Download the project in case of zip file.
+
+The File-> Open -> <project> project opens on phpStorm.
+
+The "composer update" command is executed via the phpStorm terminal.
+
+The "php artisan key: generate" command is executed via the phpStorm terminal.
+
+The "php artisan migrate" command is executed via the phpStorm terminal.
+
+The "php artisan serve" command is executed via the phpStorm terminal.
+
+Project 127.0.0.1:8000 provides access to the homepage.
+
+
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
