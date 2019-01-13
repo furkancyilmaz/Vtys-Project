@@ -2,7 +2,7 @@ Run the Project
 
 Click on the Clone or download button.
 
-Download the project in case of zip file.
+Download the project in case of zip file or "git clone<cloen adress>" in Git Bash.
 
 The File-> Open -> <project> project opens on phpStorm.
 
